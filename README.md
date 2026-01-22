@@ -41,15 +41,6 @@ This project simulates a real-world MSME scenario where management needs a centr
 
 4). Tracked UPI success vs failed payments
 
-📂 Folder Structure
-
-1). data/ → raw datasets
-
-2). sql/ → table creation & KPI queries
-
-3). powerbi/ → Power BI dashboard file
-
-4). images/ → dashboard screenshots
 
 📌 Outcome
 
