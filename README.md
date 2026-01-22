@@ -1,56 +1,55 @@
 # MSME-BUSINESS-OPERATIONS-DASHBOARD
 📊 MSME Business Operations Dashboard
-🔍 Project Overview
 
 This project simulates a real-world MSME scenario where management needs a centralized system to track sales, payments, inventory, expenses, and payroll. The goal is to enable data-driven decisions using SQL and Power BI.
 
 🎯 Business Objectives
 
-Monitor revenue, expenses, and profitability
+1). Monitor revenue, expenses, and profitability
 
-Track UPI payments and failures
+2). Track UPI payments and failures
 
-Identify low stock and slow-moving products
+3). Identify low stock and slow-moving products
 
-Analyze cost structure and payroll distribution
+4). Analyze cost structure and payroll distribution
 
 🛠 Tools Used
 
-MySQL – data storage, cleaning, KPI queries
+1). MySQL – data storage, cleaning, KPI queries
 
-Power BI – dashboarding and visualization
+2). Power BI – dashboarding and visualization
 
-Excel/CSV – raw data simulation
+3). Excel/CSV – raw data simulation
 
 📈 Dashboard Features
 
-Executive KPI overview
+1). Executive KPI overview
 
-Sales & payment analytics
+2). Sales & payment analytics
 
-Inventory risk monitoring
+3). Inventory risk monitoring
 
-Cost and payroll analysis
+4). Cost and payroll analysis
 
 🧠 Key Insights
 
-Identified top revenue-generating products
+1). Identified top revenue-generating products
 
-Highlighted low-stock risk items
+2). Highlighted low-stock risk items
 
-Analyzed expense categories impacting profit
+3). Analyzed expense categories impacting profit
 
-Tracked UPI success vs failed payments
+4). Tracked UPI success vs failed payments
 
 📂 Folder Structure
 
-data/ → raw datasets
+1). data/ → raw datasets
 
-sql/ → table creation & KPI queries
+2). sql/ → table creation & KPI queries
 
-powerbi/ → Power BI dashboard file
+3). powerbi/ → Power BI dashboard file
 
-images/ → dashboard screenshots
+4). images/ → dashboard screenshots
 
 📌 Outcome
 
